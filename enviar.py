@@ -8,9 +8,9 @@ import os
 # ==========================
 # CONFIGURAÇÕES
 # ==========================
-ASSEMBLYAI_API_KEY = "ab9e6f2e2c2341d49f29b2d61b1c6b21"
-GENAI_API_KEY = "AIzaSyBYNOepm2WsceHg0rPQ7wIKbcIIE7OEcXk"
-CHAMADO_URL = "http://10.0.0.178:5000/chamado/create"
+ASSEMBLYAI_API_KEY = "Sua Assemblya AI api"
+GENAI_API_KEY = "Sua geminai API"
+CHAMADO_URL = "Sua URL"
 
 BASE_V2 = "https://api.assemblyai.com/v2"
 HEADERS = {"authorization": ASSEMBLYAI_API_KEY}
